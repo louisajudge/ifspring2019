@@ -1,0 +1,43 @@
+#first {
+	float: right;
+}
+
+#section2 {
+	position: relative;
+}
+
+#second {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+#third {
+	background-color: green; 
+	position: fixed;
+	top: 0;
+	right: 0;
+}
+
+#section4 {
+	position: relative;
+}
+
+#fourth {
+	background-color: red;
+	position: absolute;
+	z-index: 10;
+	left: 50%;
+	top: 50%;
+	transform:translate(-50%, -50%);
+}
+
+#fifth {
+	background-color: black;
+	position: absolute;
+	z-index: 5;
+	left: 50%;
+	top: 50%;
+	transform:translate(-50%, -50%);
+	margin: 10px;
+}
