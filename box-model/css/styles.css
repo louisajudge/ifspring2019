@@ -1,5 +1,4 @@
 body {
-	background-image: url(fullsize.jpg);
 	font-family: 'Archivo Narrow', sans-serif;
 	margin: 0;
 	padding: 0; 
@@ -10,8 +9,9 @@ h1, h2, h3, h4, h5, p {
 }
 
 header {
+	background-image: url(fullsize.jpg);
+	background-position: center;
 	text-align: center;
-	background-color: rgba(255,0,0,.5);
 	height: 330px;
 	padding-top: 150px;
 }
