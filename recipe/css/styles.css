@@ -1,80 +1,99 @@
+header {
+    text-align: center;
+}
+
 h1 {
-	font-size: 215px;
+	display: block;
+    font-size: 100px;
     font-family: 'Righteous', cursive;
     text-align: center;
+    margin-left: 10%;
     /* background: #cbe6e6; */
     color: #FFC107;
-    height: 183px;
+    height: 149px;
     text-transform: capitalize;
     line-height: 228px;
-    line-height: 200px;
+    line-height: 134px;
     padding-bottom: 90px;
+    margin-right: -50%;
 }
 
 h2 {
-	font-size: 54px;
-	font-family: 'Righteous', cursive;
+	font-size: 35px;
+    font-family: 'Righteous', cursive;
     text-align: center;
-    /*background: #cbe6e6;*/
+    /* background: #cbe6e6; */
     color: #8bacb5;
     text-transform: capitalize;
-    line-height: 84px;
+    line-height: 65px;
+    padding: 0 0 0 0;
+    margin-left: 25%;
+    margin-right: -35%;
 }
 
 h3 {
-	font-size: 90px;
-	font-family: 'Righteous', cursive;
+	font-size: 67px;
+    font-family: 'Righteous', cursive;
     text-align: center;
-    /*background: #cbe6e6;*/
+    /* background: #cbe6e6; */
     color: #8bacb5;
     text-transform: capitalize;
+    margin-right: -50%;
     line-height: 60px;
-    font-stretch: ultra-expanded;
-    padding-top: 
+    font-stretch: ultra-expanded;  
+    margin-left: 10%;
 }
 
 h4 {
-	font-size: 80px;
+	font-size: 55px;
     font-family: 'Open Sans', sans-serif;
     line-height: 0px;
     text-align: left;
     font-weight: bold;
     color: #FFC107;
-    padding-top: 34px;
-    padding-left: 245px;
+    padding-top: 29px;
+    /* padding-left: 245px; */
+    margin-left: 10%;
 }
 
 h5 {
-	font-size: 31px;
+	font-size: 20px;
     font-family: 'Open Sans', sans-serif;
     text-align: left;
-    line-height: 53px;
-    padding-left: 245px;
-    padding-right: 270px;
-    padding-top: 0px;
+    line-height: 46px;
+    margin-left: 21%;
+    margin-right: -34%;
+    /* padding-left: 245px; */
+    /* padding-right: 270px; */
+    padding-top: 13px;
     font-style: normal;
     color: slategray;
 }
 
 p {
-	font-size: 50px;
+	font-size: 28px;
     font-family: 'Open Sans', sans-serif;
     text-align: left;
-    line-height: 75px;
-    padding-left: 245px;
-    padding-right: 270px;
+    line-height: 56px;
+    /* padding-left: 245px; */
+    /* padding-right: 270px; */
     padding-top: 0px;
+    /* width: 70%; */
+    margin-right: -43%;
+    margin-left: 10%;
 }
 
 .ing {
-	font-size: 50px;
+	font-size: 34px;
     font-family: 'Open Sans', sans-serif;
-    line-height: 85px;
+    line-height: 76px;
     text-align: center;
     font-weight: bold;
     color: #FFC107;
     padding-bottom: 10px;
     padding-left: 0px;
+    margin-right: -50%;
+    margin-left: 5%;
 }
 #ten
  {
@@ -88,8 +107,9 @@ p {
 }
 
 img {
-	width: 68%;
-    padding-left: 250px;
+	width: 157%;
+    align-content: center;
+    /* padding-left: 250px; */
     padding-top: 20px;
 }
 
@@ -98,9 +118,8 @@ h6 {
     font-family: 'Open Sans', sans-serif;
     text-align: left;
     line-height: 45px;
-    padding-left: 245px;
-    padding-right: 270px;
-    padding-top: 0px;
+    margin-left: 10%;
+    margin-right: -15%;
     color: gray;
 }
 
