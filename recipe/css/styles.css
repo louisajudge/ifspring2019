@@ -1,0 +1,116 @@
+h1 {
+	font-size: 215px;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    /* background: #cbe6e6; */
+    color: #FFC107;
+    height: 183px;
+    text-transform: capitalize;
+    line-height: 228px;
+    line-height: 200px;
+    padding-bottom: 90px;
+}
+
+h2 {
+	font-size: 54px;
+	font-family: 'Righteous', cursive;
+    text-align: center;
+    /*background: #cbe6e6;*/
+    color: #8bacb5;
+    text-transform: capitalize;
+    line-height: 84px;
+}
+
+h3 {
+	font-size: 90px;
+	font-family: 'Righteous', cursive;
+    text-align: center;
+    /*background: #cbe6e6;*/
+    color: #8bacb5;
+    text-transform: capitalize;
+    line-height: 60px;
+    font-stretch: ultra-expanded;
+    padding-top: 
+}
+
+h4 {
+	font-size: 80px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 0px;
+    text-align: left;
+    font-weight: bold;
+    color: #FFC107;
+    padding-top: 34px;
+    padding-left: 245px;
+}
+
+h5 {
+	font-size: 31px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    line-height: 53px;
+    padding-left: 245px;
+    padding-right: 270px;
+    padding-top: 0px;
+    font-style: normal;
+    color: slategray;
+}
+
+p {
+	font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    line-height: 75px;
+    padding-left: 245px;
+    padding-right: 270px;
+    padding-top: 0px;
+}
+
+.ing {
+	font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 85px;
+    text-align: center;
+    font-weight: bold;
+    color: #FFC107;
+    padding-bottom: 10px;
+    padding-left: 0px;
+}
+#ten
+ {
+	font-size: 50px;
+	font-family: 'Open Sans', sans-serif;
+    line-height: 85px;
+    text-align: left;
+    font-weight: bold;
+    color: #fff;
+    padding-bottom: 10px;
+}
+
+img {
+	width: 68%;
+    padding-left: 250px;
+    padding-top: 20px;
+}
+
+h6 {
+	font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    line-height: 45px;
+    padding-left: 245px;
+    padding-right: 270px;
+    padding-top: 0px;
+    color: gray;
+}
+
+#source1, #source2, #source3, #nytimes {
+    color: gray;
+}
+
+
+
+
+
+
+
